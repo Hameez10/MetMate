@@ -9,9 +9,6 @@ As the anticipation of orientation season looms, we find ourselves reflecting on
 
 Imagine a platform that simplifies the process of expanding your social circle. Through a straightforward sign-up procedure, you're invited to embark on a journey where friendships flourish organically, while you sit back and watch connections unfurl with ease.
 
-## How we built it
-
-Our expedition was fueled by a blend of sheer determination and collaborative zeal. In our pursuit of mastery over front-end languages, we embraced the companionship of countless video calls. Together, we delved into the intricacies of coding and design, uniting our energies to bring our vision to life.
 
 ## Challenges we ran into
 
