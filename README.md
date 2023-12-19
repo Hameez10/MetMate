@@ -1,4 +1,4 @@
-# ##ignition-hacks-project
+# ignition-hacks-project
 
 
 ## Inspiration
