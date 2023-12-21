@@ -16,7 +16,7 @@ The mastery of front-end development emerged as an exhilarating yet formidable c
 
 ## Accomplishments that we're proud of
 
-Our proudest moment arrives in the form of a fully functional minimum viable product. This achievement validates our dedication and underscores our belief in the potential of our endeavor.
+Our proudest moment arrives in the form of a fully functional minimum viable product within 36 hours. This achievement validates our dedication and underscores our belief in the potential of our endeavor.
 
 ## What we learned
 
